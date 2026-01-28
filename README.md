@@ -1,6 +1,6 @@
 # Netflix / Media Dataset – Exploratory Data Analysis (EDA)
 
-**Internship:** ShadowFox (Data Science)
+**Internship:** Syntecx Hub (Data Science)
 
 **Candidate:** Sakshi Vijay Chaudhari  
 **College:** Jayawantrao Sawant College of Engineering, Pune
